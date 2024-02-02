@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FormValidationTextInputEditText</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>ඞ</item>
+        <item>Other</item>
+    </string-array>
+    <string name="submit">Submit</string>
+</resources>
